@@ -1,5 +1,5 @@
 context:
-  version: "0.7.0"
+  version: "0.7.1"
 
 package:
   name: chunkah
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/coreos/chunkah/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: c03a4b6eebb611a9de5c4f79c2150bac59d7f3809ece50a4f1bd0acf4b07c71c
+  sha256: 2515032809b81eae27c6f74d782c2181bc61e011cf10d0ccf945d58d66395a20
 
 build:
   number: 0
