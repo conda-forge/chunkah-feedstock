@@ -27,7 +27,7 @@ requirements:
     - ${{ compiler('rust') }}
     - cargo-auditable
     - cargo-bundle-licenses
-    - pkg-config
+    - pkgconf
   host:
     - openssl
 
